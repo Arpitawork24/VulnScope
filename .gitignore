@@ -1,0 +1,19 @@
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated ML files
+dataset/features.csv
+dataset/vulnscope_model.pkl
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

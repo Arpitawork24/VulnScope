@@ -1,0 +1,7 @@
+bandit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+pytest
